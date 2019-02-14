@@ -1,0 +1,9 @@
+やること
+    audit logを取得するサンプルの作成
+    ログを表示するだけのUI
+取得する変数
+    いつ: timestamp
+    どこで: path?(どの場所に対して起こった事なのか)
+    誰が: source.service_name
+    なにを: dest.service_name
+    どうやって: method
